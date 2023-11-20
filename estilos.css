@@ -1,0 +1,48 @@
+body{
+    background-color:#d8cfb9;
+    color:#443336;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+/* De esta manera se ahorra código
+h1, p{
+    color:#5b402f
+}
+*/
+
+h1{
+    color:#72638c
+}
+
+h2{
+    color:#88766e
+}
+
+.img1 {
+    width: 350px;
+    height: 350px;
+    border-style:solid;
+    border-color:#443336;
+    border-width: 5px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.img2 {
+    width: 550px;
+    height: 350px;
+}
+
+footer{
+    background-color: #c6ac9c;
+    color:#443336;
+}
+
+small, a{
+    color:#443336;
+    padding-bottom: 0;
+
+}
+/*Comentario*/
